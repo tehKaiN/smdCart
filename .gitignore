@@ -15,3 +15,7 @@
 512k\+header/topor/
 
 512k\+header/gerb/
+
+*.dsn
+
+*.ses

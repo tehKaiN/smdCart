@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name megadrive)(type KiCad)(uri C:/prg/_git/romprg/deps/smdRomCart/lib/megadrive.pretty)(options "")(descr ""))
+)
