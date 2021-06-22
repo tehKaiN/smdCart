@@ -4,7 +4,8 @@ On this repo you will find schematics for SMD carts of various memory size. Each
 
 ## Current carts
 
-- `512k` - 512 KByte cart based on 27c4001 chip. Home-etching friendly PCB design.
+- `512k` - 512 KByte cart based on 27c4001 chip. Home-etching friendly PCB design. Not tested!
+- `1m_29f800` - 1 MByte cart based on 29f800 chip. Erasable/programmable using [ROMprg](https://github.com/tehKaiN/ROMprg) project.
 
 ## Build instructions
 
