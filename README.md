@@ -6,8 +6,9 @@ On this repo you will find schematics for SMD carts of various memory size. Each
 
 - `512k` - 512 KByte cart based on 27c4001 chip. Home-etching friendly PCB design. Not tested!
 - `1m_29f800` - 1 MByte cart based on 29f800 chip. Erasable/programmable using [ROMprg](https://github.com/tehKaiN/ROMprg) project.
+- `2m_29f800` - **Untested!** 1-2 MByte cart based on 1-2 29f800 chips. Erasable/programmable using [ROMprg](https://github.com/tehKaiN/ROMprg) project.
 
-## Ordering instructions
+## PCB Ordering instructions
 
 MegaDrive carts have thickness of 1.6mm.
 
@@ -15,7 +16,7 @@ MegaDrive carts have thickness of 1.6mm.
 
 When designing PCBs for new cart, the most safe way to get proper dimensions is to copy them from other carts. Some notes:
 
-- maximum cart height is about 60mm,
+- maximum cart height is about 60mm, otherwise it won't fit the case;
 - distance between mechanical holes is 70mm
 - mechanical holes should have diameter of about 6,75mm - add about 1mm for electroplating.
 - there should be no soldermask around edge connector pins.
